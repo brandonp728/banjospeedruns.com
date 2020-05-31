@@ -14,6 +14,10 @@ individual game are below.
 - If there are no tricks in a particular category (like `"outofbounds"` above), leave its list empty
 - You can run your JSON through [this tool](https://jsonlint.com/?code=) to check its validity
 
+### Below is an xxample of how the JSON files relate to the page
+![alt text](https://imgur.com/a/8yTusVH "Mapping of JSON attributes to Page Attributes")
+
+
 ## Banjo-Kazooie
 
 Sample JSON level data, named `mm.json`, for Mumbo's Mountain:
